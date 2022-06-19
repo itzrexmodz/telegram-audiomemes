@@ -41,3 +41,6 @@ After cloning the repo, you can install requirements with pip:
 
 3. Run the bot:  
    `python3 main.py`
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
